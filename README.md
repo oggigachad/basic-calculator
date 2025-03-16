@@ -1,1 +1,2 @@
-# basic-calculator
+Scientific Calculator
+A simple and responsive scientific calculator built with HTML, CSS, and JavaScript. This calculator supports basic arithmetic operations (+, -, *, /), decimal points, and is designed to be mobile-friendly with a clean, modern UI. The project focuses on providing a user-friendly experience with button clicks and keyboard support. Perfect for basic calculations, with a minimalistic and attractive design.
